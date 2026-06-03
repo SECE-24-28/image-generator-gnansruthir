@@ -1,0 +1,10 @@
+diffusers 
+transformers 
+accelerate 
+safetensors
+torch
+matplotlib
+
+
+
+requirements.txt
